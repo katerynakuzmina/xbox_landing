@@ -1,2 +1,3 @@
 # xbox_landing
-[url](https://katerynakuzmina.github.io/xbox_landing/dist/)
+### Link here
+[https://katerynakuzmina.github.io/xbox_landing/dist/](https://katerynakuzmina.github.io/xbox_landing/dist/)
