@@ -27,7 +27,10 @@
         width: 207px;
         height: 53px;
         display: block;
-        margin: 58px auto;
+        position: absolute;
+        bottom: 140px;
+        left: 50%;
+        transform: translateX(-50%);
     }
     &__design {
         width: 278px;
