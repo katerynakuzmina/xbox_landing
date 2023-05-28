@@ -1,6 +1,6 @@
 .consoles {
     min-height: 865px;
-    background-color: $grey;
+    background: radial-gradient(100% 100% at 50% 0%, $grey 0%, $darkgrey 100%);
     padding-top: 63px;
     &__logo {
         margin: 0 auto;
@@ -9,21 +9,7 @@
             margin: 0 auto;
         }
     }
-    &__wrapper {
-        margin-top: 43px;
-        display: flex;
-        justify-content: space-around;
-    }
-    &__card {
-        width: 320px;
-        min-height: 420px;
-        background: #FFFFFF;
-        border: 1px solid #8DD83D;
-        border-radius: 4px;
-        &-info {
-            padding: 21px;
-        }
-    }
+    
     &__title {
         font-weight: 400;
         font-size: 48px;
@@ -38,4 +24,5 @@
         text-align: center;
         color: #FFFFFF;
     }
+    
 }

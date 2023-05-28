@@ -93,11 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-function removeSmallest(numbers) {
-  let newNumbers;
-  numbers.forEach((item, i) => {});
-  return [];
-}
+
 
 /***/ })
 

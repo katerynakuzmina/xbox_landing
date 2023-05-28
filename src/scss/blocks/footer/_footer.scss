@@ -1,0 +1,8 @@
+.footer {
+    background-color: $darkgrey;
+    min-height: 395px;
+    &__wrapper {
+        display: grid;
+        grid-template: 1fr / repeat(3, 1fr);
+    }
+}
